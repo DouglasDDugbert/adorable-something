@@ -19,12 +19,12 @@ S1Nd=2
 SLNd=3
 PrNm=CTI-FusionTest-AL.smw
 DbVr=54.05.005.00
-DvcDbVr=72.00.001.00
+DvcDbVr=72.05.001.00
 PgmNm=alinck@reallivepros.com
 DlrNm=Live Technologies, LLC
 CltNm=CTI-FUSION-05
-SmVr=982
-DvVr=982
+SmVr=983
+DvVr=983
 TpN1=1
 TpN2=2
 TpN3=3
@@ -2067,6 +2067,20 @@ Sy1=0
 Mx1=0
 ]
 [
+ObjTp=Bw
+H=1
+Lx=0
+Ly=0
+Rx=1507
+Ry=953
+Xm=-1
+Ym=-1
+SH=39
+Z=100
+Ht=3
+Hi=1
+]
+[
 ObjTp=Et
 H=1
 DvH=596
@@ -2141,7 +2155,7 @@ SmC=156
 Nm=Logic
 ObjVer=1
 CF=2
-mC=8
+mC=9
 C1=25
 C2=30
 C3=31
@@ -2150,6 +2164,7 @@ C5=33
 C6=34
 C7=37
 C8=38
+C9=39
 ]
 [
 ObjTp=Sm
@@ -2962,6 +2977,19 @@ P1=
 P2=4:Xpanel Offline
 P3=0:Xpanel Online
 P4=
+]
+[
+ObjTp=Sm
+H=39
+SmC=121
+Nm=Comment
+ObjVer=1
+PrH=4
+CF=2
+OpF=0
+Cmn1=Do NOt Forget to Cancel your Auto-renewing membership!
+mP=1
+P1=""
 ]
 [
 ObjTp=FusionGUID

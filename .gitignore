@@ -216,6 +216,7 @@ pip-log.txt
 .mr.developer.cfg
 
 #Crestron
-SPIsWork/
+SPIsWork/*
 *.sm2
-
+CrestronXPanel installer.air
+CrestronXPanel installer.exe
