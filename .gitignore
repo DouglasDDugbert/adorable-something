@@ -223,3 +223,5 @@ CrestronXPanel installer.exe
 SPlsWork/Version.ini
 *.smw.ASV
 *.vtp.ASV
+*.hash
+*.sgd_
